@@ -8,9 +8,9 @@ Este é um projeto simples que implementa um **sorteador de números**. Ele util
 
 O projeto contém os seguintes arquivos principais:
 
-- **`índice.html`**: Estrutura da página principal.
-- **`estilo.css`**: Estilos para deixar a página visualmente agradável.
-- **`aplicativo.js`**: Lógica para realizar o sorteio de números.
+- **`index.html`**: Estrutura da página principal.
+- **`style.css`**: Estilos para deixar a página visualmente agradável.
+- **`app.js`**: Lógica para realizar o sorteio de números.
 
 ---
 
@@ -33,7 +33,7 @@ O projeto contém os seguintes arquivos principais:
 
 Projeto desenvolvido por **Leandro Alexandre**.
 
-![Foto do autor](./fotoleandro.jpg) 
+![Foto do autor](img/fotoleandro.png) 
 
 ---
 
