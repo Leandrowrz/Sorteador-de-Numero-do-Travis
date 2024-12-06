@@ -33,7 +33,7 @@ O projeto contém os seguintes arquivos principais:
 
 Projeto desenvolvido por **Leandro Alexandre**.
 
-![Foto do autor](img/fotoleandro.png) 
+![Foto do autor](img/fotoleandro.png) git add .
 
 ---
 
